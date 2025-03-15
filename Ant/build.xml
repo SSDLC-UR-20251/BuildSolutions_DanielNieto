@@ -1,0 +1,14 @@
+
+<project name="Hello World Project" default="run">
+   <target name="info">
+      <echo>Hello World - Welcome to Apache Ant!</echo>
+   </target>
+
+   <target name="run">
+      <echo>Ejecutando script Python...</echo>
+      <exec executable="python3">
+         <arg value="main.py"/>
+         <arg value="4"/>
+      </exec>
+   </target>
+</project>

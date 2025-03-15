@@ -1,0 +1,22 @@
+📄 Extracto bancario de sara.palaciosc@urosario.edu.co
+
+📅 Fecha: 2025-03-13 17:41:06.330219
+💳 Tipo: Deposit
+💰 Balance: 400
+
+📅 Fecha: 2025-03-13 17:41:24.282025
+💳 Tipo: Withdrawal
+💰 Balance: -100.0
+
+📅 Fecha: 2025-03-13 17:56:14.512487
+💳 Tipo: Deposit
+💰 Balance: 123
+
+📅 Fecha: 2025-03-13 17:56:09.340198
+💳 Tipo: Withdrawal
+💰 Balance: -12.0
+
+📅 Fecha: 2025-03-15 12:20:45.678910
+💳 Tipo: Withdrawal
+💰 Balance: -50.0
+
